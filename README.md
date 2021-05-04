@@ -5,7 +5,7 @@ Informações:
 
 - Para listar o conteúdo do banco de dados, deve-se usar o endereço http://127.0.0.1:8000/registro/.
 
-- Para fazer alterações em um cadastro específico, deve-se adicionar o 'id' do respectivo cadastro ao final do endereço (http://127.0.0.1:8000/registro/<id>/)
+- Para fazer alterações em um cadastro específico, deve-se adicionar o 'id' do respectivo cadastro ao final do endereço (http://127.0.0.1:8000/registro/'<id>'/)
 
 - A alteração é feita utilizando o formulário que apresenta o botão 'PUT'.
 
